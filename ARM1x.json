@@ -5,8 +5,8 @@
   },
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/maneav/m/master/ARM1x.json",
   	"info": {
-        "url_png_icon_64x64": "https://github.com/maneav/m/blob/master/ArmADA_64x64.png",
-        "url_png_logo": "https://github.com/maneav/m/blob/master/ArmADA.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/maneav/m/master/ArmADA_64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/maneav/m/master/ArmADA_64x64.png",
         "location": "Ontario, Canada",
         "social": {
             "twitter_handle": "ArmADApool",
