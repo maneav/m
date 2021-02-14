@@ -5,7 +5,9 @@
   },
   
   	"info": {
-        "location": "Canada",
+        "url_png_icon_64x64": "https://github.com/maneav/m/blob/master/ArmADA_64x64.png",
+        "url_png_logo": "https://github.com/maneav/m/blob/master/ArmADA.png",
+        "location": "Ontario, Canada",
         "social": {
             "twitter_handle": "ArmADApool",
             "telegram_handle": "ArmADApool",
