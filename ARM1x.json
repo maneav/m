@@ -1,4 +1,5 @@
 {
+    "verification":"c3ef28b4c464c0614f",
   "itn": {
   "owner": "ed25519_pk10ejwf9urcsvgx2a9zrt5dcnsjegrnur3ls3sycp5rudw9mj3esyssd7509",
   "witness": "ed25519_sig1rjmmr2mhysprg02drydn7djte04uhc2zup9lw8uq2qsrv9tu4erapxmnthlcchu6tu7rvnfusan04dtqjvx43l49ya853nd7nrkk6qsg36mrq"
@@ -33,4 +34,3 @@
     }
   }
 }
-c3ef28b4c464c0614f
