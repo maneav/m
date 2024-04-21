@@ -19,14 +19,14 @@
         "company": {
             "name": "ArmADA Stake Pool",
             "addr": "",
-            "city": "Ontario",
+            "city": "",
             "country": "Canada",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "With over 20 years of IT experience, we are utilizing the best security, and monitoring practices to provide our delegators the best return possible. Working closely with the Cardano community from the beginning, allowed us to fine tune and improve our servers day-by-day.",
-            "server": "ArmADA Stake Pool is running on a global scale infrastructure since the Incentivized Test Net (ITN) in December 2019. It is a combination of bare metal located in Canada and servers hosted in Certified Data Centers around the globe to ensure redundancy in case of an outage."
+            "me": "With over 20 years of IT experience, we are utilizing the best security, and monitoring practices to provide our delegators the best return possible.",
+            "server": "ArmADA Stake Pool is running on a global scale infrastructure since the Incentivized Test Net (ITN) in December 2019. It is a combination of bare metal and servers hosted in Certified Data Centers around the globe to ensure redundancy in case of an outage."
         },
     "my-pool-ids": {
         "0": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28"
